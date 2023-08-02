@@ -1,0 +1,41 @@
+body,
+html{
+margin: 0;
+}
+.greyBar{
+height: 100px;
+background-color: grey;
+}
+.blueLilBox{
+margin: auto;
+margin-left: 20px;
+margin-top: 10px;
+float: left;
+height: 75%;
+width: 10%;
+background-color: blue;
+}
+.whiteTextBox{
+height: 150px;
+background-color: white;
+}
+.whiteTextBox h2{
+  text-align: center;
+  margin-top: 15%;
+}
+.blueBox{
+height: 100px;
+background-color: blue;
+}
+.tealBox{
+height: 100px;
+background-color: aqua;
+}
+.greenBox{
+height: 100px;
+background-color: khaki;
+}
+.yellowBox{
+height: 100px;
+background-color: yellow;
+}
